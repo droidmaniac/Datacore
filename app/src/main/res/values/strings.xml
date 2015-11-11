@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Datacore</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hint_username">Please enter username</string>
+    <string name="hint_password">Please enter password</string>
+    <string name="hint_retype_password">Please retype password</string>
+    <string name="hint_email">Please enter Email ID</string>
+    <string name="hint_password_reset">Please enter Email Address</string>
+    <string name="button_login">Login</string>
+    <string name="button_create_account">Create Account</string>
+    <string name="button_reset">Reset Password</string>
+    <string name="title_activity_create_account">CreateAccount</string>
+    <string name="title_activity_contact_list">ContactList</string>
+    <string name="text_header">DataCore by DroidManiac</string>
+
+</resources>
